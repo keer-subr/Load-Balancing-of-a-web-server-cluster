@@ -1,0 +1,3 @@
+How to enable the security tab in folder properties (XP prof)
+
+.go to run promt

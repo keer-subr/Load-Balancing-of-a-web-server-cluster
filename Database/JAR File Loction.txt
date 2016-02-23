@@ -1,0 +1,4 @@
+copy the jar file from Supporting jar folder and paste it to following loction
+==============================================================================
+C:\Program Files\Java\jdk1.6.0\jre\lib\ext
+C:\Program Files\Java\jre1.6.0\lib\ext
